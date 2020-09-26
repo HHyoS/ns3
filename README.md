@@ -9,6 +9,11 @@
 ns-3 설치 : https://www.nsnam.org/wiki/Installation#Ubuntu.2FDebian.2FMint
 NetAnim 설치 : https://www.youtube.com/watch?v=1FBSAghbjNM
 
+위에 분할압축되어있는 동영상은 Ns-3의 동작으로부터 산출된 hell.xml 파일을 NetAnim를 이용하여 애니메이션화 한 동영상입니다.
+만약 동영상 재생을 원하시면 한곳에 모아서 압축해제하시면 됩니다.
+
+
+
 The code above is based on the Dynamic-global-routing.cc file provided by ns.
 
 Environment: virtual box. uuntu
@@ -17,4 +22,7 @@ Content: Create an environment where NetAnim can be used based on Dynamic-global
 This code animates the flow.
 ns-3 installation: https://www.nsnam.org/wiki/Installation#Ubuntu2FDebian2FMint
 Install NetAnim: https://www.youtube.com/watch?v=1FBSAghbjNM
-      
+     
+The split-compressed video above is an animated video of the hello.xml file calculated from the behavior of Ns-3 using NetAnim.
+If you want to play the video, you can collect it in one place and unzip it.
+
